@@ -1,4 +1,4 @@
-# تطبيق أحلام كوفي - Ahlam Coffee
+# تطبيق A كوفي - Ahlam Coffee
 
 ## نبذة عن المشروع
 
@@ -59,9 +59,9 @@ git add .
 git commit -m "مشروع متجر القهوة"
 
 # 7. أضف رابط المستودع
-git remote add origin https://github.com/ahlamalsalami/CoofeeApp.git
+git remote add origin https://github.com/admin/CoofeeApp.git
 او
-git remote add origin https://ahlamalsalami@github.com/ahlamalsalami/CoofeeApp.git
+git remote add origin https://admin@github.com/admin/CoofeeApp.git
 # 8. الآن ادفع وسيطلب منك بيانات الدخول
 git push -u origin main
 ## تشغيل التطبيق
@@ -181,7 +181,7 @@ lib/
 
 ## صاحبة المشروع
 
-تم تطوير هذا المشروع من قبل **أحلام السلامي (Ahlam Alsalami)** كجزء من متطلبات مشروع جامعي.
+تم تطوير هذا المشروع من قبل ** السلامي (Alsalami)** كجزء من متطلبات مشروع جامعي.
 
 ## رخصة
 
@@ -203,9 +203,9 @@ lib/
 
 ## حقوق الملكية
 
-جميع الحقوق محفوظة © 2026 أحلام السلامي (Ahlam Alsalami)
+جميع الحقوق محفوظة © 2026  السلامي ( Alsalami)
 
-تم تطوير هذا المشروع من قبل أحلام السلامي (Ahlam Alsalami) كجزء من متطلبات مشروع جامعي.
+تم تطوير هذا المشروع من قبل السلامي (Alsalami) كجزء من متطلبات مشروع جامعي.
 
 هذا المشروع مفتوح المصدر ويمكن استخدامه لأغراض تعليمية وتطويرية.
 
