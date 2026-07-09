@@ -34,7 +34,7 @@
 ### 1. استنساخ المشروع
 
 ```bash
-git clone https://github.com/ahlamalsalami/CoofeeApp.git
+git clone https://github.com/alsalami/CoofeeApp.git
 ```
 
 ### 2. الانتقال إلى مجلد المشروع
@@ -49,8 +49,8 @@ cd CoofeeApp
 flutter pub get
 ```
 # 4. اضبط بياناتك محليا اذا كنت مرتبط بحساب اخر 
-git config user.name "ahlamalsalami"
-git config user.email "ahlamalsalami@gmail.com"
+git config user.name "alsalami"
+git config user.email "alsalami@gmail.com"
 
 # 5. أضف كل الملفات
 git add .
@@ -59,9 +59,9 @@ git add .
 git commit -m "مشروع متجر القهوة"
 
 # 7. أضف رابط المستودع
-git remote add origin https://github.com/admin/CoofeeApp.git
+git remote add origin https://github.com/alsalami/CoofeeApp.git
 او
-git remote add origin https://admin@github.com/admin/CoofeeApp.git
+git remote add origin https://alsalami@github.com/alsalami/CoofeeApp.git
 # 8. الآن ادفع وسيطلب منك بيانات الدخول
 git push -u origin main
 ## تشغيل التطبيق
